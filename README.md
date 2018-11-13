@@ -7,4 +7,4 @@ https://github.com/Jatin-8898/WhatsappBroadcast.git
 
 ## Instructions
 
-### Make sure to include the google contacts by going to 
+ Make sure to include the google contacts by going to [Google Contacts](https://contacts.google.com/)
