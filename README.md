@@ -4,3 +4,7 @@ You can send automated messages of your choice.
 
 ## Clone the Repo
 https://github.com/Jatin-8898/WhatsappBroadcast.git
+
+## Instructions
+
+### Make sure to include the google contacts by going to 
