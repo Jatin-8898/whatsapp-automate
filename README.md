@@ -8,4 +8,11 @@ https://github.com/Jatin-8898/WhatsappBroadcast.git
 ## Instructions
 
 * Contacts
- Make sure to include the google contacts by going to [Google Contacts](https://contacts.google.com/)
+ 1. Make sure to include the google contacts by going to [Google Contacts](https://contacts.google.com/)
+ 
+* Install the libraries
+ 1. Selenium : `pip install selenium `
+ 2. Pandas : `pip install pandas`
+
+* Chrome Driver
+ 1. Install the latest version of Chrome Driver:http://chromedriver.chromium.org/downloads
