@@ -1,12 +1,13 @@
 # WhatsappBroadcast :rocket:
-A repo to broadcast the messages using the whatsapp web made in python.
+A repo to broadcast the messages using the whatsapp web made in python.    
+<Enter>
 You can send automated messages of your choice.
 :smile:
 
 ## Clone the Repo
 https://github.com/Jatin-8898/WhatsappBroadcast.git
 
-## Instructions :triangular_flag_on_post:
+## Instructions :blue_book:
 
 ### Export the Contacts
  1) Make sure to include the google contacts by going to [Google Contacts](https://contacts.google.com/)
