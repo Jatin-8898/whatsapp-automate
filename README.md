@@ -6,14 +6,15 @@ You can send automated messages of your choice.
 ## Clone the Repo
 https://github.com/Jatin-8898/WhatsappBroadcast.git
 
-## Instructions
+## Instructions :triangular_flag_on_post:
 
-### Contacts
+### Export the Contacts
  1) Make sure to include the google contacts by going to [Google Contacts](https://contacts.google.com/)
+ 2) Export in Google CSV format all your contacts or a particular contact and save it as **contact.csv** 
  
 ### Install the libraries
  1. Selenium : `pip install selenium `
  2. Pandas : `pip install pandas`
 
-### Chrome Driver
+### Install the Chrome Driver
  1. Install the latest version of Chrome Driver:http://chromedriver.chromium.org/downloads
