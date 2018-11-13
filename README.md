@@ -14,8 +14,10 @@ https://github.com/Jatin-8898/WhatsappBroadcast.git
  2) Export in Google CSV format all your contacts or a particular contact and save it as **contact.csv** 
  
 ### Install the libraries
- 1. Selenium : `pip install selenium `
- 2. Pandas : `pip install pandas`
+ 1. Selenium : <Enter>
+ `pip install selenium `
+ 2. Pandas : <Enter>
+`pip install pandas`
 
 ### Install the Chrome Driver
  1. Install the latest version of Chrome Driver:http://chromedriver.chromium.org/downloads
