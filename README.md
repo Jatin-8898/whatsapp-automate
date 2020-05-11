@@ -1,8 +1,8 @@
-# Whatsapp Broadcast :rocket:
+# Whatsapp Automation :rocket:
 
 [![GitHub forks](https://img.shields.io/github/forks/Jatin-8898/whatsapp-broadcast)](https://github.com/Jatin-8898/whatsapp-broadcast/network) [![GitHub stars](https://img.shields.io/github/stars/Jatin-8898/whatsapp-broadcast)](https://github.com/Jatin-8898/whatsapp-broadcast/stargazers) [![GitHub license](https://img.shields.io/github/license/Jatin-8898/whatsapp-broadcast)](https://github.com/Jatin-8898/whatsapp-broadcast/blob/master/LICENSE)
 
-A repo to broadcast the messages using the whatsapp web made in python.
+To Broadcast the messages using the Whatsapp Web using python.
 A sample for the christmas greetings has been demonstrated in the code.
 <Enter>
 You can send automated messages of your choice.
